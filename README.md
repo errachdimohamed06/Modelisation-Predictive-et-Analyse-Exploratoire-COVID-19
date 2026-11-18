@@ -1,7 +1,7 @@
 # Mod-lisation-Pr-dictive-et-Analyse-Exploratoire-COVID-19
 # Analyse et Modélisation d'un Dataset COVID-19
 
-Ce projet a pour but d'explorer, analyser et modéliser un dataset COVID-19 téléchargé depuis Kaggle. L'objectif est de comprendre les données et de développer des modèles prédictifs capables d'identifier les cas positifs de COVID-19 en se basant sur des caractéristiques médicales et biologiques.
+Ce projet a pour but d'explorer, analyser et modéliser un dataset COVID-19. L'objectif est de comprendre les données et de développer des modèles prédictifs capables d'identifier les cas positifs de COVID-19 se basant sur des caractéristiques médicales et biologiques.
 
 ## 1. Exploration des Données
 
